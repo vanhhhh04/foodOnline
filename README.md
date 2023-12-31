@@ -19,4 +19,7 @@ Impressive Features:
 +Seamless integration of PayPal for secure and convenient payment transactions.
 
 
-youtube for demo :
+youtube for demo :https://www.youtube.com/watch?v=9bdlYp9_tss 
+
+This project is used for interviewing, so it does not include instructions to run. If you want to run this app, don't hesitate to contact me via email at caovietanhhd@gmail.com. I hope you enjoy it 
+
